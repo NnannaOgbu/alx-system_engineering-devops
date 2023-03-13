@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Best School' > try | mv try '\*\\'"Best School"'\\*$\?\*\*\*\*\*:)' 
+echo "Best School" > \\\*\\\\"'\"BestSchool\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\:\) 
